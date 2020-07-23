@@ -5,4 +5,8 @@
   font-family: 'Times New Roman', Times, serif !important;
   letter-spacing: 1px !important;
 }
+
+ul li {
+  margin: 10px 0;
+}
 /*# sourceMappingURL=style.css.map */
