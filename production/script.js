@@ -19,6 +19,6 @@
         document.getElementsByTagName("head")[0].appendChild(script);
     }
 
-    loadScript("https://combinatronics.com/Construct-Education/SBS-templates-2020/master/js/app.js?token=AP6AB6Q3HUCQDPGU47SK3AK7DGA54", function () { 
+    loadScript("https://combinatronics.com/Construct-Education/SBS-templates-2020/master/js/app.js", function () { 
     });
 })();
