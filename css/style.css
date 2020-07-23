@@ -1,5 +1,5 @@
 .user_content #kl_banner_right,
-.user_content h2,
+.user_content h2:not(.kl_banner_left),
 .user_content h3,
 .user_content blockquote p {
   font-family: 'Times New Roman', Times, serif !important;
