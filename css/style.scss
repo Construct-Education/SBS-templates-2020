@@ -1,11 +1,15 @@
 .user_content {
 
     #kl_banner_right,
-    h2:not(.kl_banner_left),
+    h2,
     h3,
     blockquote p {
         font-family: 'Times New Roman', Times, serif !important;
         letter-spacing: 1px !important;
+    }
+
+   .kl_banner_left {
+        font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif !important;
     }
 
     ul {
