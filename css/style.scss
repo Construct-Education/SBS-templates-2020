@@ -13,12 +13,18 @@
         background-size: cover !important;
     }
 
-   #kl_banner_left, #kl_banner_left > * {
-        font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    #kl_banner_left,
+    #kl_banner_left>* {
+        font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     }
 
     hr.dp-hr-solid-light {
         border-top: 1px solid #002147;
+    }
+
+    figcaption {
+        position: absolute;
+        z-index: -2;
     }
 
     ul {
@@ -27,5 +33,3 @@
         }
     }
 }
-
-
