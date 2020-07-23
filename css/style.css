@@ -6,6 +6,11 @@
   letter-spacing: 1px !important;
 }
 
+.user_content #kl_banner {
+  background: url("/courses/1715/files/86337/preview") right no-repeat !important;
+  background-size: cover !important;
+}
+
 .user_content h2#kl_banner_left {
   font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif !important;
 }
