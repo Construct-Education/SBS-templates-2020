@@ -1,12 +1,14 @@
-#kl_banner_right, h2, h3, blockquote p {
-    font-family: 'Times New Roman', Times, serif  !important;
-    letter-spacing: 1px !important;
-} 
+.user_content {
 
-#kl_banner_left {
-
+    #kl_banner_right,
+    h2,
+    h3,
+    blockquote p {
+        font-family: 'Times New Roman', Times, serif !important;
+        letter-spacing: 1px !important;
+    }
 }
 
-#kl_banner_right{
+#kl_banner_left {}
 
-}
+#kl_banner_right {}

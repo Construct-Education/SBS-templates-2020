@@ -1,5 +1,8 @@
-#kl_banner_right, h2, h3, blockquote p {
-  font-family: 'Times New Roman', Times, serif  !important;
+.user_content #kl_banner_right,
+.user_content h2,
+.user_content h3,
+.user_content blockquote p {
+  font-family: 'Times New Roman', Times, serif !important;
   letter-spacing: 1px !important;
 }
 /*# sourceMappingURL=style.css.map */
