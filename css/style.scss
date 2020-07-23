@@ -7,6 +7,12 @@
         font-family: 'Times New Roman', Times, serif !important;
         letter-spacing: 1px !important;
     }
+
+    ul {
+        li {
+            margin: 20px 0;
+        }
+    }
 }
 
 #kl_banner_left {}
@@ -14,8 +20,3 @@
 #kl_banner_right {}
 
 
-ul {
-    li {
-        margin: 10px 0;
-    }
-}
