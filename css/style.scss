@@ -19,7 +19,7 @@
 }
 
 //TEMPORARY WRAP HOM EPAGE ISSUE 
-@media only screen and (max-width: 950px) {
+@media only screen and (min-width: 950px) {
     #kl_custom_block_0 {
         .bs-row {
             flex-wrap: nowrap !important;
