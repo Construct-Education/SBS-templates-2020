@@ -16,4 +16,11 @@
 #kl_wrapper_3 ul li {
   margin: 20px 0;
 }
+
+@media only screen and (max-width: 950px) {
+  #kl_custom_block_0 .bs-row {
+    -ms-flex-wrap: nowrap !important;
+        flex-wrap: nowrap !important;
+  }
+}
 /*# sourceMappingURL=style.css.map */
