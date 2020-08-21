@@ -21,6 +21,8 @@
   #kl_custom_block_0 .bs-row {
     -ms-flex-wrap: nowrap !important;
         flex-wrap: nowrap !important;
+  }
+  #kl_custom_block_0 .bs-row .bs-col-md-8 {
     -webkit-box-flex: 0;
         -ms-flex: none;
             flex: none;
