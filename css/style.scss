@@ -23,6 +23,8 @@
     #kl_custom_block_0 {
         .bs-row {
             flex-wrap: nowrap !important;
+            flex: none;
+            max-width: none;
         }
     }
 }
