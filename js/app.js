@@ -4,7 +4,7 @@
 // Copyright (C) 2017  Utah State University
 var DT_extended = {
     secondaryTemplateCourse: '1722', // Canvas course ID
-    secondaryIdentifier: 'Construct EMBA'
+    secondaryIdentifier: 'Construct MBA'
  };
 ////////////////////////////////////////////////////
 // END DESIGN TOOLS CONFIG                        //
