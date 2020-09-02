@@ -1,30 +1,33 @@
-@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-#kl_wrapper_3 #kl_banner {
-  background: url("https://canvas.sbs.ox.ac.uk/files/90383/download") right no-repeat !important;
-  background-size: cover !important;
+/*
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+#kl_wrapper_3 {
+    #kl_banner {
+        background: url('https://canvas.sbs.ox.ac.uk/files/90383/download') right no-repeat !important;
+        background-size: cover !important;
+    }
+    #kl_banner_left,
+    #kl_banner_left>* {
+        font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    }
+    hr.dp-hr-solid-light {
+        border-top: 1px solid #002147;
+    }
+    ul {
+        li {
+            margin: 20px 0;
+        }
+    }
 }
 
-#kl_wrapper_3 #kl_banner_left,
-#kl_wrapper_3 #kl_banner_left > * {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-}
-
-#kl_wrapper_3 hr.dp-hr-solid-light {
-  border-top: 1px solid #002147;
-}
-
-#kl_wrapper_3 ul li {
-  margin: 20px 0;
-}
-
+//TEMPORARY WRAP HOM EPAGE ISSUE 
 @media only screen and (min-width: 1080px) {
-  #kl_custom_block_0 .bs-row {
-    -ms-flex-wrap: nowrap !important;
-        flex-wrap: nowrap !important;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
+    #kl_custom_block_0 {
+        .bs-row {
+            flex-wrap: nowrap !important;
             flex-direction: row;
-  }
+        }
+    }
 }
+
+*/
 /*# sourceMappingURL=style.css.map */
