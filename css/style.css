@@ -16,15 +16,4 @@
 #kl_wrapper_3 ul li {
   margin: 20px 0;
 }
-
-@media only screen and (min-width: 1080px) {
-  #kl_custom_block_0 .bs-row {
-    -ms-flex-wrap: nowrap !important;
-        flex-wrap: nowrap !important;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
-  }
-}
 /*# sourceMappingURL=style.css.map */
