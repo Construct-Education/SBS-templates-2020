@@ -1,3 +1,5 @@
+/*
+
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 #kl_wrapper_3 #kl_banner {
   background: url("https://canvas.sbs.ox.ac.uk/files/90383/download") right no-repeat !important;
@@ -17,7 +19,7 @@
   margin: 20px 0;
 }
 
-/*
+
 //TEMPORARY WRAP HOM EPAGE ISSUE 
 @media only screen and (min-width: 1080px) {
     #homepage-banner {
