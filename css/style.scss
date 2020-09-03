@@ -20,6 +20,16 @@
 
 //TEMPORARY WRAP HOM EPAGE ISSUE 
 @media only screen and (min-width: 1080px) {
+    #homepage-banner {
+        flex-direction: row;
+        flex-flow: nowrap;
+        box-sizing: border-box;
 
+        :nth-child(1) {
+            flex: none;
+            max-width: none;
+        }
+
+    }
 }
 

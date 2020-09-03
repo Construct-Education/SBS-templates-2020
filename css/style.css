@@ -16,4 +16,23 @@
 #kl_wrapper_3 ul li {
   margin: 20px 0;
 }
+
+@media only screen and (min-width: 1080px) {
+  #homepage-banner {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-flow: nowrap;
+        flex-flow: nowrap;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  #homepage-banner :nth-child(1) {
+    -webkit-box-flex: 0;
+        -ms-flex: none;
+            flex: none;
+    max-width: none;
+  }
+}
 /*# sourceMappingURL=style.css.map */
